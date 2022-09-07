@@ -4,7 +4,7 @@ This is my public portfolio for cool data visualization I've created through the
 The link to the live web site: https://nahuhs.github.io/Shuhan-Zhang-Portfolio/
 
 # About Me
-Hi! My name is Shuhan Zhang, a current graduate student at CMU. I studied Statistics and Mathematics during my undergrad, and now I am pursuing a master degree in Data Analytics and Business Intelligence. Through my previous experience, I realized that making data insights persuasive is as important as building useful models. I hope you all can enjoy the work I created here, and welcome any feedbacks!
+Hi! My name is Shuhan Zhang, a current graduate student at CMU. I studied Statistics and Mathematics during my undergrad, and now I am pursuing a master degree in Data Analytics and Business Intelligence. Through my previous experience, I realized that making data insights persuasive is as important as building useful models. I hope you all can enjoy the work I created here, and welcome any feedbacks.
 
 Follow me on [Linkedin](https://www.linkedin.com/in/shuhan-zhang-752918179/)!
 
