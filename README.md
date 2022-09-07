@@ -11,7 +11,7 @@ Follow me on [Linkedin](https://www.linkedin.com/in/shuhan-zhang-752918179/)!
 # What I hope to learn
 As a future data scientist, I hope to cultivate my sense of creating attractive as well as intuitive data visualizations, so that I can better communicate data with my clients, stakeholders and people in other domain. I want to make it easier for other people to interpret the result of my work and quickly get the point of the data I am trying to present. 
 
-This [Cosmic Calendar](https://en.wikipedia.org/wiki/Cosmic_Calendar) plot gave me a knock of how one good data visualization plot can help people understand complicated and opaque concepts and knowledge. Enjoy!
+This [Cosmic Calendar](https://en.wikipedia.org/wiki/Cosmic_Calendar) plot once gave me a huge knock of how one good data visualization plot can help people understand complicated and opaque concepts and knowledge. Please click it and enjoy!
 
 # Portfolio
 These are links to my cool works I created during through this semester.
