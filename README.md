@@ -14,7 +14,7 @@ As a future data scientist, I hope to cultivate my sense of creating attractive 
 This [Cosmic Calendar](https://en.wikipedia.org/wiki/Cosmic_Calendar) plot once gave me a huge knock of how one good visualization plot can help people understand complicated and opaque concepts and knowledge. Please click it and enjoy!
 
 # Portfolio
-These are links to my cool works I created during through this semester.
+These are links to my cool works I created through this semester.
 
 ## Visualization Exercise
 
