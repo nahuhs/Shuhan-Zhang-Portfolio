@@ -17,7 +17,6 @@ This [Cosmic Calendar](https://en.wikipedia.org/wiki/Cosmic_Calendar) plot once 
 These are links to my cool works I created through this semester.
 
 ## Visualization Exercise
-1. Visualize Government Debt
-<iframe src="https://data.oecd.org/chart/6Og2" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Og2" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
+1. [Visualizing Government Debt](/government-debt-viz.md)
 
 ## Final Project
