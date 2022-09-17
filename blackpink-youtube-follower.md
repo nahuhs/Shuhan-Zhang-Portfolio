@@ -63,7 +63,7 @@ As a result, you can view the first sketch I made here. ![1st sketch](bp_sketch1
 
 - Student B, mid 20's
 
-**Describe to me what this is telling you**: BLACKPINK's social media impact! I love them and they are so popular on YouTube. The growing numbers of their subscribers. It's better if you can have the data till now, cuz they just reached 8k subscribers recently and it's unbelieveable!
+**Describe to me what this is telling you**: BLACKPINK's social media impact! I love them and they are so popular on YouTube. The growing numbers of their subscribers. It's better if you can have the data till now, cuz they just reached 80k subscribers recently and it's unbelieveable!
 
 **Aything you find surprising or confusing**: It's all clear to me. I mean the first time I saw it I'm wondering why you highlighted these bars, but after I clicked it and see the detailed info I understand you are showing the time they reached 10k, 20k, 30k, and 40k subscribers.
 
