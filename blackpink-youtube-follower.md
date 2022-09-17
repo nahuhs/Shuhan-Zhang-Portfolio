@@ -59,7 +59,7 @@ As a result, you can view the first sketch I made here. ![1st sketch](bp_sketch1
 
 **The intended audience for this**: Probably Blackpink fans? Or people who love KPOP I guess. I'm not quite into this data visualization. I don't listen to their songs that much. But they are popular, and I just know them. 
 
-**Anything you would change or do differently**: Probably change the title I guess. I don't really see the "expoentially growing" trend here. Or maybe because the data is only limited to 2020?
+**Anything you would change or do differently**: Probably change the title I guess. I don't really see the "exponentially growing" trend here. Or maybe because the data is only limited to 2020?
 
 - Student B, mid 20's
 
@@ -77,13 +77,13 @@ I interviewed with two different people and they gave super helpful feedbacks. B
 
 1. *Annotation*. I decided not to highlight bars, but instead add annotation to the bar where they reached or exceeded 40k followers. I initially want to annotate the bars when they reached 10k, 20k, 30k, and 40k subscribers. But too many captions will make the visualization too messy. Since the visualization is interactive, so I decided only to annotate the most recent record when they reached 40k YouTube subscribers. 
 
-3. *Title*. The previous title is not consistent with what the data is showing. Due to the limited data constraint, I cannot show the whole picture of their exponentially growing YouTube subscribers till today. For the data we have here, there is no obvious pattern what the number of subscribers are growping exponentially. So, the title should be consistent with the data. 
+3. *Title*. The previous title is not consistent with what the data is showing. Due to the limited data constraint, I cannot show the whole picture of their exponentially growing YouTube subscribers till today. For the data we have here, there is no obvious pattern that the number of subscribers are growping exponentially. So, the title should be consistent with the data. 
 
 Based on the sketch and the feedbacks, I made the final redesign of this visualization.
 
 The final sketch for the visualization: ![2nd sketch](bp-sketch2.jpeg)
 
-*The final visualization made by Tableau.*
+**The final visualization made by Tableau.**
 
 <div class='tableauPlaceholder' id='viz1663436302939' style='position: relative'><noscript><a href='#'><img alt='Growing Number of BlackPink Youtube Subscribers ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bl&#47;Blackpinkyoutubefollowertrend&#47;subscribers&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Blackpinkyoutubefollowertrend&#47;subscribers' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bl&#47;Blackpinkyoutubefollowertrend&#47;subscribers&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 <script type='text/javascript'>                    
