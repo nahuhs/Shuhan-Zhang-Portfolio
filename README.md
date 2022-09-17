@@ -18,5 +18,6 @@ These are links to my cool works I created through this semester.
 
 ## Visualization Exercise
 1. [Visualizing Government Debt](/government-debt-viz.md)
+2. [BLACKPINK YouTube Follower Trend Critique and Revise](/blackpink-youtube-follower.md)
 
 ## Final Project
