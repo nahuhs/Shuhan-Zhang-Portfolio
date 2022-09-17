@@ -47,7 +47,7 @@ I revised the visualization following the steps below:
  
 5. *Title*. A nice title could give audience a heads-up about what to expect in the visualization. So I changed the title of this data visualization to *BLACKPINK's Exponentially Growing YouTube Subscribers*.
 
-As a result, you can view the first sketch I made here. [1st sketch](bp_sketch1.jpeg)
+As a result, you can view the first sketch I made here. ![1st sketch](bp_sketch1.jpeg)
 
 ## Test the Solutions
 
