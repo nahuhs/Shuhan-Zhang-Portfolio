@@ -19,7 +19,9 @@ Transition from the introduction, highlight part of the usage of social media is
 From user perspective, how to manage the time spent on social media, the money spent on social media. From commercial perspective, how to utilize social media to create a healthy purchasing enviroment towards consumers.
 
 # Initial Sketches
-
+![Introduction](intro.jpeg)
+![Main Discussion](main.jpeg)
+![Conclusion](last.jpeg)
 
 # Datasets
 - Datasets used for the introduction
