@@ -7,14 +7,17 @@ promote their products, and sell them to us through influencers on these social 
 of social media on Millenials, and then directing to the specific topic of the social media marketing. 
 
 ### Project Structure
-The project will be structered in the according ways. 
+The project will be structured in the according way. 
 
 1. Introduction. 
 Introduce the audience (Millenials) to the context of how they spend their time on social media, their attitude towards social media, their usage of social media and etc.
+
 2. Main Discussion. 
-Transition from the introduction, highlight part of the usage of social media is actually targeted on online shopping. Give some examples about some of the most popular social media influencers. 
+Transition from the introduction, highlight part of the usage of social media is actually targeted on online shopping. Give some examples about some of the most popular social media influencers.
+
 3. Ask for an answer. 
-"What is your attitude towards social media marketing?" And give visualization around data from already-done survey. 
+"What is your attitude towards social media marketing?" And give visualization around data from already-done survey.
+
 4. Conclusion/Suggestions. 
 From user perspective, how to manage the time spent on social media, the money spent on social media. From commercial perspective, how to utilize social media to create a healthy purchasing enviroment towards consumers.
 
@@ -37,6 +40,4 @@ From user perspective, how to manage the time spent on social media, the money s
 4. [Online Influencer Marketing](https://data.world/ahalps/online-influencer-marketing)
 
 # Method and Medium
-In order to complete this project, I will use **Shorthand** to put up a personal website. Along with it, I will embedded visualizations from **Tableau** or **Flourish**
-as well as HTML plugins to add more the main discussion content and interactive experience with the user. Also, I will use Unsplash to add consistent topic photos 
-in my personal website. I will explore more on word/character font and style for my personal website. 
+In order to complete this project, I will use **Shorthand** to put up a personal website. Along with it, I will embedded visualizations from **Tableau** or **Flourish** as well as HTML plugins to add more the main discussion content and interactive experience with the user. Also, I will use Unsplash to add consistent topic photos in my personal website. I will explore more on word/character font and style for my personal website. 
