@@ -8,15 +8,19 @@ Social media is a very broad topic. In order to narrow down the scope of the pro
 The project will be structured in the according way. 
 
 1. Introduction. 
+
 Introduce the audience (brands who want to promote their products) to the context of how Millennials spend their time on social media, their attitudes like gender, age, education level etc., their usage of social media and etc.
 
 2. Main Discussion. 
+
 Transition from the introduction, give the data that Millennials spend a lot of time shopping on Social Media and highlight the fact that social media helped a lot of companies to grow. Give some examples about some of the most popular social media influencers, the industries/companies who used the social media marketing the most and some interesting news/videos around the topic.
 
-3. Deeper Dive,
+3. Deeper Dive.
+
 Given the survey data around the question "What is Millennials' attitude towards social media marketing?", I will generate word cloud visualization, geographic visualizations to show how Millennials' opinions about social media marketing, in order to provide some insight about soical media marketing strategies.
 
 4. Conclusion/Suggestions. 
+
 Give suggestions on how companies and brands can use social media to create business opportunities and identify some potential challenges as well. 
 
 # Initial Sketches
@@ -26,7 +30,7 @@ Give suggestions on how companies and brands can use social media to create busi
 
 # Datasets
 - Datasets used for the introduction
-1. [data of usage of social media by students between age 17-22](https://data.world/maheepmahat/data-of-usage-of-social-media-by-students-between-age-17-22) 
+1. [Data of usage of social media by students between age 17-22](https://data.world/maheepmahat/data-of-usage-of-social-media-by-students-between-age-17-22) 
 2. [Top University Social Media Rankings](https://data.world/nicole-klassen/top-university-social-media-rankings-2021/workspace/file?filename=University+Social+Media+Rankings.xlsx)
 3. [Which Social Media Millennials Care About Most](https://data.world/ahalps/which-social-media-millennials-care-about-most)
 
