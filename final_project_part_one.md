@@ -1,10 +1,9 @@
 # Outline
 ### Summary
-As millenials, we spent a lot of time surfing on social media like Instagram, Twitter, Youtube, Facebook.... Countless social media platforms "control" or "cost" our 
+As Millennials, we spent a lot of time surfing on social media like Instagram, Twitter, Youtube, Facebook.... Countless social media platforms "control" or "cost" our 
 life. 
-Social media is too broad to talk about. So, I picked one part of this broad topic which is social media marketing about how commercials utilize social media to 
-promote their products, and sell them to us through influencers on these social media. I want to develop a full-scope of story, starting from analyzing the general impact
-of social media on Millenials, and then directing to the specific topic of the social media marketing. 
+
+Social media is a very broad topic. In order to narrow down the scope of the project, I decided to put more attention to one interesting topic, social media marketing or influencer marketing. This is about how commercials utilize social media and influencers to promote their products, and sell them to social media users. I want to develop a comprehensive story, starting from analyzing the general impact of social media on Millennials, and then directing to the specific topic of the social media marketing. 
 
 ### Project Structure
 The project will be structured in the according way. 
