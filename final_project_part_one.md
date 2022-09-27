@@ -13,7 +13,7 @@ Introduce the audience (brands who want to promote their products) to the contex
 2. Main Discussion. 
 Transition from the introduction, give the data that Millennials spend a lot of time shopping on Social Media and highlight the fact that social media helped a lot of companies to grow. Give some examples about some of the most popular social media influencers, the industries/companies who used the social media marketing the most and some interesting news/videos around the topic.
 
-3. Dive Deeper.
+3. Deeper Dive,
 Given the survey data around the question "What is Millennials' attitude towards social media marketing?", I will generate word cloud visualization, geographic visualizations to show how Millennials' opinions about social media marketing, in order to provide some insight about soical media marketing strategies.
 
 4. Conclusion/Suggestions. 
@@ -34,8 +34,8 @@ Give suggestions on how companies and brands can use social media to create busi
 1. [Social Media Influence on Shopping](https://data.world/ahalps/social-influence-on-shopping)
 2. [Social Media Usage Statistics and Ads Revenue](https://sproutsocial.com/insights/social-media-statistics/)
 
-- Datasets used for asking for an answer section
-4. [Online Influencer Marketing](https://data.world/ahalps/online-influencer-marketing)
+- Datasets used for Deeper Dive
+1. [Online Influencer Marketing](https://data.world/ahalps/online-influencer-marketing)
 
 # Method and Medium
 
