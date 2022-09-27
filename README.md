@@ -21,3 +21,4 @@ These are links to my cool works I created through this semester.
 2. [BLACKPINK YouTube Follower Trend Critique and Revise](/blackpink-youtube-follower.md)
 
 ## Final Project
+1. [Final Project Part I](/final_project_part_one.md)
