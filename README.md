@@ -22,3 +22,4 @@ These are links to my cool works I created through this semester.
 
 ## Final Project
 1. [Final Project Part I](/final_project_part_one.md)
+2. [Final Project Part II](/final_project_part_two.md)
