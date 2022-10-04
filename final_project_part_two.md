@@ -37,6 +37,7 @@ It is easier to see that from 2019 to 2021, **Instagram** stays the top influenc
 
 ### Deep Dive into the Instagram advertising
 
+I am still trying to find data and information which could show the huge revenue and ads reach rate on Instagram. Probably will include a geographic map which shows ads reach rate across the world or constrained to the U.S.
 
 ### So, what are people's attitudes towards social marketing?
 
@@ -57,7 +58,17 @@ Besides the data viz, I will also include some debate blogs or videos to present
 
 ### Call to Actions
 1. Focus on the main social media platforms to distribute marketing ads, like Instagram, YouTube, and TikTok.
-2. Gather user feedbacks frequently to see what are the attitueds towards social media marketing or influencer marketing. Making relative strategies to distribute the proper amount of ads to proper influencers posts or videos is a key element to avoid negative user feedback.
+2. Gather user feedbacks frequently to see what are the attitudes towards social media marketing or influencer marketing. Making relative strategies to distribute the proper amount of ads to proper influencers posts or videos is a key element to avoid negative user feedback.
 3. Some strategies on how to find the appropriate influencers for social media marketing (Embed one YouTube Video I saw could be useful).
 
 ## User Research
+
+a. The target audience you hope to reach with your story
+
+b. your approach to identifying representative individuals to interview; 
+
+c. your interview script; 
+
+d. the findings from your interviews;
+
+e. changes you plan on implementing to your visualizations next week to address the issues identified. 
