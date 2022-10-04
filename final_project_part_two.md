@@ -39,7 +39,7 @@ It is easier to see that from 2019 to 2021, **Instagram** stays the top influenc
 
 I am still trying to find data and information which could show the huge revenue and ads reach rate on Instagram. Probably will include a geographic map which shows ads reach rate across the world or constrained to the U.S.
 
-### So, what are people's attitudes towards social marketing?
+### So, what are people's attitudes towards social media marketing?
 
 Here is a survey asking for respondants' attitude towards influencer marketing. People holds various kinds of attitudes towards influencer marketing. We notice that negative repsonses takes some amount of percentage. 
 
@@ -83,10 +83,32 @@ I picked candidate B who is super interested in influencer marketing and is curr
 I picked candidate C who previously had experience as a marketing specialist and had exposure to soial media marketing. I believe she can provide me some insights and feedbacks on what a social media marketer wants to see from my story.
 
 **3. My interview script**
+Firstly, I go over the wireframes and introduce the story to each one of the candidates.
 
+Secondly, candidates had the chance to ask any questions they may have while listening to my presentation.
+
+Thirdly, I asked each one of the candidates the following questions.
+
+1. What is your main takeaway from this story?
+2. What is some additional thoughts or ideas you have while listening to the story?
+3. Do you feel you can understand each of the data visualizations quickly and clearly?
+4. What do you like the most about the story?
+5. What do you think is the part that needs the most to be revised?
+6. Do you think this story or data analysis and visualization here can help form marketing strategies?
 
 **4. The findings from my interview**
 
+1. Candidates think this story is well-connected in covering a whole picture of social media marketing, especially the call to actions part is useful. However, it would be better if the call to actions part can be expanded and be more specific. For example, what is the social media marketing strategy suggestions for small to medium size company, how do they differ from large size company? What are the performance metrics to look at when determining which influencer to use.
+2. One candidate mentions that the color used in my visualizations for the tree plot is kind of ambiguous and misleading. So, be careful when use colors.
+3. For the bar chart showing different social media platforms chosen to be the influencer marketing place, one candidate suggested that it took a while to understand the content because these two bar charts look alike. Probably I can put these two bar charts into one big side-by-side bar chart and ranked these platforms based on 2021 data to intuitively show the increasing trend of some social media platform like TikTok.
+4. When talking about different social media platforms, I can add their icons into the visualizations.
+5. For the pie chart showing the share of social media advertising among all the digital advertising in 2022, one candidate suggested to put another pie chart on the left to show the share of social media advertising in year 2010. This can help audience understand the huge increment of social media advertising share from 2010 to 2022.
+6. One candidate suggested me to use narratives rather than descriptive sentences to connect the whole story. She mentioned that the sentences I put here on the wireframes are too plain or too descriptive to connect all the parts as a whole story.
 
 **5. The changes I plan on implementing to my visualizations next week**
-
+1. Be more careful about the color I will use.
+2. Add social media platforms icons when possible.
+3. Add one more pie chart to show the increment of the social media advertising share among all the digital advertising between year 2010 and 2022.
+4. Fix the bar chart.
+5. Add more details in call to actions section. 
+6. Use narratives to connect the whole story. Give explanation or the angle of analysis when needed.
