@@ -70,10 +70,23 @@ Besides the data viz, I will also include some debate blogs or videos to present
 
 a. The target audience you hope to reach with your story
 
-b. your approach to identifying representative individuals to interview; 
+The target audience I hope to reach to are either commercials, brands, companies or individuals who want to explore social media platform as an approach to do online digital marketing to promote their services or products, or people who are interested in the topic of social media marketing/influencer marketing and want to learn more.
 
-c. your interview script; 
+b. your approach to identifying representative individuals to interview
 
-d. the findings from your interviews;
+To identify the target audience, the first thing I did is to look from people around me. 
 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+I picked candidate A who is going to become a product manager after graduation. This individual is representative in the way that being a product manager is responsible for the whole cycle of product development, including marketing and promoting products, and this is probably where social media marketing strategy kicks in. 
+
+I picked candidate B who is super interested in influencer marketing and is currently preparing to create her own YouTube channel to become an influencer. I believe she will provide me some ideas on the aspects of social media marketing which I missed talking about. 
+
+I picked candidate C who previously had experience as a marketing specialist and had exposure to soial media marketing. I believe she can provide me some insights and feedbacks on what a social media marketer wants to see from my story.
+
+c. your interview script
+
+
+d. the findings from your interview
+
+
+e. changes you plan on implementing to your visualizations next week to address the issues identified
+
