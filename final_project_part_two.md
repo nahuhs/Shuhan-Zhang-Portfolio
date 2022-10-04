@@ -68,11 +68,11 @@ Besides the data viz, I will also include some debate blogs or videos to present
 
 ## User Research
 
-**a. The target audience I hope to reach with my story**
+**1. The target audience I hope to reach with my story**
 
 The target audience I hope to reach to are either commercials, brands, companies or individuals who want to explore social media platform as an approach to do online digital marketing to promote their services or products, or people who are interested in the topic of social media marketing/influencer marketing and want to learn more.
 
-**b. The approach to identifying representative individuals to interview**
+**2. The approach to identifying representative individuals to interview**
 
 To identify the target audience, the first thing I did is to look from people around me. 
 
@@ -82,11 +82,11 @@ I picked candidate B who is super interested in influencer marketing and is curr
 
 I picked candidate C who previously had experience as a marketing specialist and had exposure to soial media marketing. I believe she can provide me some insights and feedbacks on what a social media marketer wants to see from my story.
 
-**c. My interview script**
+**3. My interview script**
 
 
-**d. The findings from my interview**
+**4. The findings from my interview**
 
 
-**e. The changes I plan on implementing to my visualizations next week**
+**5. The changes I plan on implementing to my visualizations next week**
 
