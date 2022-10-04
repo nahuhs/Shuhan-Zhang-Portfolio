@@ -1,6 +1,6 @@
 # Final Project Part II
 
-Continuing from Part I, social media marketing has become an interesting topic towards many people.
+Continuing from Part I, social media has become billion dollars profitable marketing approach.
 
 ## Wireframes
 
@@ -10,8 +10,12 @@ Continuing from Part I, social media marketing has become an interesting topic t
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11365490"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+### Social Media has become a main approach for digital marketing.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11373810"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ### What are the most popular social media platforms U.S. marketers choose to use for influencer marketing?
-It is easier to see that from 2019 to 2021, **Instagram** is the top one influencer marketing platforms.
+It is easier to see that from 2019 to 2021, **Instagram** stays the top influencer marketing platforms. **TikTok** follows.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11365256"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -27,9 +31,12 @@ It is easier to see that from 2019 to 2021, **Instagram** is the top one influen
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-### The revenue generated from these top social media platforms for commercials are huge.
+### So, how influencers transformed the modern marketing?
 
-I couldn't find super confidential data online. So, intead of making my own data visualizations, probably I will embedded information online like blogs or reports or videos of introducing the huge amount of profits social media marketing provides to different brands and industries.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gbbEXnRG9d8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Deep Dive into the Instagram advertising
+
 
 ### So, what are people's attitudes towards social marketing?
 
@@ -45,10 +52,12 @@ Here is a survey asking for respondants' attitude towards influencer marketing. 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
 Besides the data viz, I will also include some debate blogs or videos to present a more in-depth arguements around social media or influencer marketing. 
 
 ### Call to Actions
 1. Focus on the main social media platforms to distribute marketing ads, like Instagram, YouTube, and TikTok.
 2. Gather user feedbacks frequently to see what are the attitueds towards social media marketing or influencer marketing. Making relative strategies to distribute the proper amount of ads to proper influencers posts or videos is a key element to avoid negative user feedback.
+3. Some strategies on how to find the appropriate influencers for social media marketing (Embed one YouTube Video I saw could be useful).
 
 ## User Research
