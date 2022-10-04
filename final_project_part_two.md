@@ -53,13 +53,18 @@ Here is a survey asking for respondants' attitude towards influencer marketing. 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+Besides the data viz, I will also include some debate blogs or videos to present a more in-depth arguements around social media or influencer marketing.
 
-Besides the data viz, I will also include some debate blogs or videos to present a more in-depth arguements around social media or influencer marketing. 
+### Is social media marketing all good? What are the potential cons?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IwDM7uVRYc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 ### Call to Actions
 1. Focus on the main social media platforms to distribute marketing ads, like Instagram, YouTube, and TikTok.
 2. Gather user feedbacks frequently to see what are the attitudes towards social media marketing or influencer marketing. Making relative strategies to distribute the proper amount of ads to proper influencers posts or videos is a key element to avoid negative user feedback.
-3. Some strategies on how to find the appropriate influencers for social media marketing (Embed one YouTube Video I saw could be useful).
+3. Some strategies on how to find the appropriate influencers for social media marketing is crucial, because brands reputation can become vulnarable sometimes depending on the influencer. (Embed one YouTube Video I saw could be useful).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oRbyHb12s2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## User Research
 
