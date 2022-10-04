@@ -83,6 +83,7 @@ I picked candidate B who is super interested in influencer marketing and is curr
 I picked candidate C who previously had experience as a marketing specialist and had exposure to soial media marketing. I believe she can provide me some insights and feedbacks on what a social media marketer wants to see from my story.
 
 **3. My interview script**
+
 Firstly, I go over the wireframes and introduce the story to each one of the candidates.
 
 Secondly, candidates had the chance to ask any questions they may have while listening to my presentation.
@@ -106,6 +107,7 @@ Thirdly, I asked each one of the candidates the following questions.
 6. One candidate suggested me to use narratives rather than descriptive sentences to connect the whole story. She mentioned that the sentences I put here on the wireframes are too plain or too descriptive to connect all the parts as a whole story.
 
 **5. The changes I plan on implementing to my visualizations next week**
+
 1. Be more careful about the color I will use.
 2. Add social media platforms icons when possible.
 3. Add one more pie chart to show the increment of the social media advertising share among all the digital advertising between year 2010 and 2022.
