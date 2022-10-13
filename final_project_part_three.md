@@ -1,6 +1,8 @@
 # Final Project Part III
 
 ### [The Final Story on Shorthand](https://carnegiemellon.shorthandstories.com/influencer-marketing-analysis/index.html)
+<script src="https://carnegiemellon.shorthandstories.com/influencer-marketing-analysis/embed.js"></script>
+
 ### [Link back to Project Part I:](/final_project_part_one.md)
 ### [Link back to Project Part II:](/final_project_part_two.md)
 
