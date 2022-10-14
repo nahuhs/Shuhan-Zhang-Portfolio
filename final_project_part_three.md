@@ -3,8 +3,8 @@
 ### [The Final Story on Shorthand](https://carnegiemellon.shorthandstories.com/influencer-marketing-analysis/index.html)
 <script src="https://carnegiemellon.shorthandstories.com/influencer-marketing-analysis/embed.js"></script>
 
-### [Link back to Project Part I:](/final_project_part_one.md)
-### [Link back to Project Part II:](/final_project_part_two.md)
+### [Link back to Project Part I](/final_project_part_one.md)
+### [Link back to Project Part II](/final_project_part_two.md)
 
 ## Improvements
 1. I restructured the whole story. Previously, I spent a lot of time introducing the effect and increasing usage of social media, without diving directly into influencer marketing. For the final story, I started with only one small introduction of how the growing usage of social media provides new opportunities for brands and companies to promote their products and services. Then, I focused on describing three main components of influencer marketing: influencers, social media platforms, and followers' attitudes. Later, I also gave call-to action suggestions from these three perspectives.
