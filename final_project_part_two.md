@@ -125,3 +125,6 @@ Thirdly, I asked each one of the candidates the following questions.
 4. Fix the bar chart.
 5. Add more details in call to actions section. 
 6. Use narratives to connect the whole story. Give explanation or the angle of analysis when needed.
+
+### [Back to Part I](/final_project_part_one.md)
+### [Go to Part III](/final_project_part_three.md)
