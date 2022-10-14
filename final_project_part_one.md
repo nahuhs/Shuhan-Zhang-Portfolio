@@ -52,3 +52,6 @@ For additional information, I will use Unsplash to add relative topic photos on 
 1. Pick a side (done). Previously, I wasn't clear about the perspective or scope of this project. I vaguely put all the info and data I collected about social media without specifying which side I choose to develop my story and call to actions. Now I've revised this important part to only focus on commercial and companies.
 2. Take out some unneccsarry plots/visualizations to keep the information concise and relevant. I will be more selective for the next step and only keep relevant plots and information.
 3. Add more flows to connect the whole story. Probably the info or content I present here are still not well connected together to present a whole story. I will do more research on this topic and see what other data or information I can find to support forming a complete story. 
+
+### [Go to Part II](/final_project_part_two.md)
+### [Go to Part III](/final_project_part_three.md)
